@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick Davison</h1>
 <h3 align="center">A curious coder and middling tinkerer.</h3>
 
-- 🔭 I’m currently working on [Pack&Paddle](https://github.com/padavi804/pack-paddle)
+- 🔭 I’m currently working on [Duluth Trails](https://github.com/padavi804/trails)
 
 - 🌱 I’m currently learning **React, Typescript**
 
