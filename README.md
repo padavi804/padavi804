@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Patrick Davison</h1>
 <h3 align="center">A curious coder and middling tinkerer.</h3>
 
-- 🔭 I’m currently working on [Duluth Trails](https://github.com/padavi804/trails)
+- 🔭 I’m currently working on [Duluth Trails](https://github.com/padavi804/trails) and [Snowbank Labs](https://github.com/padavi804/snowbank)
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently learning **React, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/padavi804](https://github.com/padavi804)
 
